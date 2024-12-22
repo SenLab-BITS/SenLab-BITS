@@ -1,0 +1,9 @@
+- title: "The case for smartwatch-based diet monitoring"
+  image: TBG_SL.png
+  description: We explore the use of gesture recognition on a wrist-worn smartwatch as an enabler of an automated eating activity (and diet monitoring) system. We show, using small-scale user studies, how it is possible to use the accelerometer and gyroscope data from a smartwatch to accurately separate eating episodes from similar non-eating activities, and to additionally identify the mode of eating (i.e., using a spoon, bare hands or chopsticks).
+  authors: Sougata Sen, Vigneshwaran Subbaraju, Archan Misra, Rajesh Krishna Balan, Youngki Lee
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/7134103/
+    display:  2015 IEEE international conference on pervasive computing and communication workshops (PerCom workshops)
+  highlight: 1
+
