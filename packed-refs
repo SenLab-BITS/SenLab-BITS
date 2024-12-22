@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+a1ad4f11ff2b2f6b6082f324b1ea4566a0e8f5dc refs/heads/dependabot/bundler/jekyll-3.6.3
+47913cb6abc3573e8ad9b46b3e1d7094badd048c refs/heads/dependabot/bundler/kramdown-2.3.0
+5cbc4de111c1b3517e4239d6d1e9bf7a0a211939 refs/heads/gh-pages
+a6c5f3b4344edf70c5870c2c699a95ebf29a6f98 refs/heads/tmp
