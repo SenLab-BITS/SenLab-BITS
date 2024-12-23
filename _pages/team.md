@@ -81,6 +81,16 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 ## Master and Bachelor Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
+<div class="row">
+  <div class="col-sm-6 clearfix">
+    <a href={{member.link}}>{{ member.name }}</a>({{member.year}}), {{ member.info }}. 
+  </div>
+</div>
+{% endfor %}
+
+
+{% assign number_printed = 0 %}
+{% for member in site.data.students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 

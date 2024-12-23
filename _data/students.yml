@@ -8,44 +8,75 @@
 #  education3:
 #  education4:
 
-- name: Daman Bir Singh
-  photo: rock.jpg
-  info: Master student
-  email: goa.bits-pilani.ac.in
-  number_educ: 0
-  education1:
+- name: Saket Nerurkar
+  info: Visio software 
+  member: 2023-2025
+  link:  
 
-- name: Hemlatha Pandey
-  photo: rock.jpg
-  info: Master student
-  email: goa.bits-pilani.ac.in
-  number_educ: 0
-  education1:
+- name: Murali Nair
+  info: Visio hardware
+  member: 2023-2025
+  link:  
 
-- name: Shashwat Katiyar
-  photo: rock.jpg
-  info: Master student
-  email: goa.bits-pilani.ac.in
-  number_educ: 0
-  education1:
+- name: Shantanu Deshmukh
+  info: Visio hardware, SwedGuru hardware
+  member: 2023-2025
+  link:  
 
-- name: Shubham Mishra
-  photo: rock.jpg
-  info: Master student
-  email: goa.bits-pilani.ac.in
-  number_educ: 0
-  education1:
+- name: Saket Hatwar
+  info: CSI-based activity recognition 
+  member: 2023-2025
+  link:  
 
-- name: Karnavat Tejal Lalitkumar
-  photo: rock.jpg
-  info: Master student
-  email: goa.bits-pilani.ac.in 
-  number_educ: 0
-  education1:
+- name: Parth Shah
+  info: SwedGuru hardware 
+  member: 2023-2025
+  link:  
 
-- name: Jaskaran Singh Bhatia
-  photo: rock.jpg
-  info: Undergraduate student
-  email: goa.bits-pilani.ac.in 
-  number_educ: 0
-  education1:
+- name: Ayush Tewari
+  info: SwedGuru hardware, SwedGuru software 
+  member: 2023-2025
+  link:  
+
+
+# - name: Daman Bir Singh
+#   photo: rock.jpg
+#   info: Master student
+#   email: goa.bits-pilani.ac.in
+#   number_educ: 0
+#   education1:
+
+# - name: Hemlatha Pandey
+#   photo: rock.jpg
+#   info: Master student
+#   email: goa.bits-pilani.ac.in
+#   number_educ: 0
+#   education1:
+
+# - name: Shashwat Katiyar
+#   photo: rock.jpg
+#   info: Master student
+#   email: goa.bits-pilani.ac.in
+#   number_educ: 0
+#   education1:
+
+# - name: Shubham Mishra
+#   photo: rock.jpg
+#   info: Master student
+#   email: goa.bits-pilani.ac.in
+#   number_educ: 0
+#   education1:
+
+# - name: Karnavat Tejal Lalitkumar
+#   photo: rock.jpg
+#   info: Master student
+#   email: goa.bits-pilani.ac.in 
+#   number_educ: 0
+#   education1:
+
+# - name: Jaskaran Singh Bhatia
+#   photo: rock.jpg
+#   info: Undergraduate student
+#   email: goa.bits-pilani.ac.in 
+#   number_educ: 0
+#   education1:
