@@ -1,12 +1,4 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+#Do not modify this file. To make changes, update data/student.csv or data/alum.csv
 
 - name: Saket Nerurkar
   info: Visio software 

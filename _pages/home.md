@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group at [BITS Pilani Goa Campus](https://www.bits-pilani.ac.in/goa/). Our research enables automatic and unobtrusive monitoring of fine-grained details of an individual's everyday activities and behaviors using sensor data from mobile, wearable, and infrastructure devices. We focus on building systems that perform lifestyle analytics by drawing upon data from various sensing modalities; apply appropriate data processing and machine learning techniques to automatically and unobtrusively monitor an individual’s daily-life activities.
+Welcome to the Sensing, Embedded, Networking, and Software Engineering Lab at [BITS Pilani Goa Campus](https://www.bits-pilani.ac.in/goa/). Our research enables automatic and unobtrusive monitoring of fine-grained details of an individual's everyday activities and behaviors using sensor data from mobile, wearable, and infrastructure devices. We focus on building systems that perform lifestyle analytics by drawing upon data from various sensing modalities; apply appropriate data processing and machine learning techniques to automatically and unobtrusively monitor an individual’s daily-life activities. We develop solutions using both custom embedded devices, as well as commercially available devices. 
 
 <!--div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" -->
 <!-- Menu -->
@@ -65,7 +65,10 @@ We are a research group at [BITS Pilani Goa Campus](https://www.bits-pilani.ac.i
 <!-- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**-->
 
 
-We are grateful for funding from BITS Pilani.
+We are grateful to our funders:
+- BITS Pilani
+- Google
+- SERB
 
 <!--figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
