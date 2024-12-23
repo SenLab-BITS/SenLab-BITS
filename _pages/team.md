@@ -79,14 +79,13 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 ## Master and Bachelor Students
-{% assign number_printed = 0 %}
 {% for member in site.data.students %}
-<div class="row">
-  <div class="col-sm-6 clearfix">
+<!--div class="row"-->
+  <!--div class="col-sm-6 clearfix"-->
     [{{member.name}}]({{member.link}}),{{member.yr}},{{ member.info }}. 
     <p><a href="{{ member.link }}">{{ member.name }}</a></p>
-  </div>
-</div>
+  <!--/div-->
+<!--/div-->
 {% endfor %}
 
 
