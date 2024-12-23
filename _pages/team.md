@@ -82,14 +82,13 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% for member in site.data.students %}
 <!--div class="row"-->
   <!--div class="col-sm-6 clearfix"-->
-    [{{member.name}}]({{member.link}}),{{member.yr}},{{ member.info }}. 
-    <p><a href="{{ member.link }}">{{ member.name }}</a></p>
+    [{{member.name}}]({{member.link}}), {{member.yr}}, {{ member.info }}. 
   <!--/div-->
 <!--/div-->
 {% endfor %}
 
 
-{% assign number_printed = 0 %}
+<!-- {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -139,7 +138,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 ## Collaborators
 
