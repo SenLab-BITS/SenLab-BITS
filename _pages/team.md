@@ -83,7 +83,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% for member in site.data.students %}
 <div class="row">
   <div class="col-sm-6 clearfix">
-    [{{ member.name }}]({{member.link}}),{{member.year}},{{ member.info }}. 
+    [{ member.name }]({member.link}),{{member.yr}},{{ member.info }}. 
   </div>
 </div>
 {% endfor %}
