@@ -1,3 +1,9 @@
+"""
+Script to read the students.csv file and convert it to a students.yml file
+Displays name, info(project name), yr(years in SenseLab), link
+Sorts the students by name
+"""
+
 import csv
 import yaml
 import pandas as pd
