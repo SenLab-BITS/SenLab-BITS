@@ -1,74 +1,25 @@
-#Do not modify this file. To make changes, update data/student.csv or data/alum.csv
-
+# do not make any changes to this file
 - name: Saket Nerurkar
-  info: Visio software 
+  info: Visio Software
   yr: 2023-2025
-  link:  ./
-
+  link: ./
 - name: Murali Nair
-  info: Visio hardware
+  info: Visio Hardware
   yr: 2023-2025
-  link:  ./
-
+  link: ./
 - name: Shantanu Deshmukh
-  info: Visio hardware, SwedGuru hardware
+  info: Visio Hardware; SwedGuru Hardware
   yr: 2023-2025
-  link:  ./
-
+  link: ./
 - name: Saket Hatwar
-  info: CSI-based activity recognition 
+  info: CSI-based activity recognition
   yr: 2023-2025
-  link:  ./
-
+  link: ./
 - name: Parth Shah
-  info: SwedGuru hardware 
+  info: SwedGuru Hardware
   yr: 2023-2025
-  link:  ./
-
+  link: ./
 - name: Ayush Tewari
-  info: SwedGuru hardware, SwedGuru software 
+  info: SwedGuru Hardware; SwedGuru Software
   yr: 2023-2025
-  link:  ./
-
-
-# - name: Daman Bir Singh
-#   photo: rock.jpg
-#   info: Master student
-#   email: goa.bits-pilani.ac.in
-#   number_educ: 0
-#   education1:
-
-# - name: Hemlatha Pandey
-#   photo: rock.jpg
-#   info: Master student
-#   email: goa.bits-pilani.ac.in
-#   number_educ: 0
-#   education1:
-
-# - name: Shashwat Katiyar
-#   photo: rock.jpg
-#   info: Master student
-#   email: goa.bits-pilani.ac.in
-#   number_educ: 0
-#   education1:
-
-# - name: Shubham Mishra
-#   photo: rock.jpg
-#   info: Master student
-#   email: goa.bits-pilani.ac.in
-#   number_educ: 0
-#   education1:
-
-# - name: Karnavat Tejal Lalitkumar
-#   photo: rock.jpg
-#   info: Master student
-#   email: goa.bits-pilani.ac.in 
-#   number_educ: 0
-#   education1:
-
-# - name: Jaskaran Singh Bhatia
-#   photo: rock.jpg
-#   info: Undergraduate student
-#   email: goa.bits-pilani.ac.in 
-#   number_educ: 0
-#   education1:
+  link: './ '
