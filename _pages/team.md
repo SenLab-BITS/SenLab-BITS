@@ -207,32 +207,16 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
-<div class="row">
-
-<div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
+## Former  BE students
 {% for member in site.data.alumni_bsc %}
-{{ member.name }}
+<!--div class="row"-->
+  <!--div class="col-sm-6 clearfix"-->
+    [{{member.name}}]({{member.link}}), {{member.yrs}}, {{ member.curr }}. 
+  <!--/div-->
+<!--/div-->
 {% endfor %}
-</div>
 
-</div>
-
+## Former ME students
 
 <!--## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.-->
