@@ -1,4 +1,5 @@
-# do not make any changes to this file
+#Do not modify this file. To make changes, update data/student.csv or data/alum.csv
+
 - name: Ayush Tewari
   info: SwedGuru Hardware; SwedGuru Software
   yr: 2023-2025
